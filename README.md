@@ -123,14 +123,5 @@ dt.predict(X_new)
 ---
 
 
-## 🔮 Future Scope
-
-- Deploy the model as a REST API using Flask or FastAPI
-- Add SHAP-based explainability to interpret individual predictions
-- Experiment with class imbalance techniques (SMOTE) to improve minority class recall
-- Integrate a front-end form for real-time predictions
-
----
-
 
 
