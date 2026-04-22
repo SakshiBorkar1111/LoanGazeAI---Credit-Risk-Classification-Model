@@ -120,7 +120,7 @@ A complete **inference pipeline** was built to process new applicant data — ap
 dt.predict(X_new)
 # Output: [0] → Not Eligible  |  [1] → Eligible
 
----
+
 
 
 
