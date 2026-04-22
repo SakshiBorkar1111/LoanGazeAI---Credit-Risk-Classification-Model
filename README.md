@@ -124,20 +124,6 @@ dt.predict(X_new)
 ---
 
 
-
-## 📁 Project Structure
-
-```
-LoanGazeAI/
-│
-├── LoanGazeAI.ipynb        # Main project notebook
-├── loan.joblib             # Saved best model
-├── LoanData.csv            # Dataset 
-└── README.md               # Project documentation
-```
-
----
-
 ## 🔮 Future Scope
 
 - Deploy the model as a REST API using Flask or FastAPI
