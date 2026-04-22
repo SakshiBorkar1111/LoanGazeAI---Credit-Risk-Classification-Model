@@ -67,7 +67,6 @@ This project is directly applicable to:
 ## 🛠️ Data Preparation
 
 ### Cleaning
-- Replaced `3+` in Dependents with integer `3`
 - Missing value treatment:
   - Categorical columns → filled with **mode**
   - Critical numerical columns (Income, LoanAmount, Term, Credit_History) → **rows dropped** (cannot impute loan-critical features)
